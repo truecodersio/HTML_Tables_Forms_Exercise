@@ -14,6 +14,17 @@ body {
 table {
     max-width: 600px;
     width: 100%;
-    background-color: #3d3d3d;
+    margin: 20px 50% 20px 50%;
 
+    background-color: #3d3d3d;
+    color: #EEEEEE;
+    border-collapse: collapse;
+    border: 2px solid #EEEEEE;
+    padding 5px
+}
+
+th, td {
+    border-collapse: collapse;
+    border: 2px solid #EEEEEE;
+    padding: 5px;
 }

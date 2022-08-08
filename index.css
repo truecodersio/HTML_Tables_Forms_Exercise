@@ -3,7 +3,7 @@
 }
 
 html {
-    font-size: 20px;
+    font-size: 18px;
 }
 
 body {
@@ -14,7 +14,8 @@ body {
 table {
     max-width: 600px;
     width: 100%;
-    margin: 20px 50% 20px 50%;
+    margin: 20px auto;
+    
 
     background-color: #3d3d3d;
     color: #EEEEEE;
@@ -27,4 +28,9 @@ th, td {
     border-collapse: collapse;
     border: 2px solid #EEEEEE;
     padding: 5px;
+}
+
+.row1 { 
+    font-size: 22px;
+    font-weight: bolder;
 }

@@ -29,6 +29,7 @@ th, td {
     border-collapse: collapse;
     border: 2px solid #EEEEEE;
     padding: 5px;
+    text-align: center;
 }
 
 form {
